@@ -1,0 +1,4 @@
+pseudo code
+{
+  //main code
+}
